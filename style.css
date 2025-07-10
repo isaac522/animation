@@ -28,10 +28,10 @@ h1 {
   100% { top: 0; left: 0; background-color: #dbaaff; }
 }
 
-/* Animated Logo Box */
+/* Animated Logo Box - now larger */
 .animated-logo {
-  width: 120px;
-  height: 120px;
+  width: 200px;
+  height: 200px;
   background-image: url("cit-logo.jpg");
   background-size: contain;
   background-repeat: no-repeat;
@@ -42,4 +42,5 @@ h1 {
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
+
 
